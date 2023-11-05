@@ -1,0 +1,30 @@
+C:\Users\user\source\repos\ExpressApp2\obj\Debug\ExpressApp2.njsproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExpressApp2\obj\Debug\ExpressApp2.njsproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExpressApp2\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\user\source\repos\ExpressApp2Bootstrap\obj\Debug\ExpressApp2.njsproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExpressApp2Bootstrap\obj\Debug\ExpressApp2.njsproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExpressApp2Bootstrap\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\user\source\repos\ExpressApp2BootstrapStatic\obj\Debug\ExpressApp2.njsproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExpressApp2BootstrapStatic\obj\Debug\ExpressApp2.njsproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExpressApp2BootstrapStatic\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\user\source\repos\ExpressApp2BootstrapStaticview\obj\Debug\ExpressApp2.njsproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExpressApp2BootstrapStaticview\obj\Debug\ExpressApp2.njsproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExpressApp2BootstrapStaticview\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\user\source\repos\ExpressApp2BootstrapStaticviewMdb\obj\Debug\ExpressApp2.njsproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExpressApp2BootstrapStaticviewMdb\obj\Debug\ExpressApp2.njsproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExpressApp2BootstrapStaticviewMdb\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\user\source\repos\ExpressApp2BootstrapStaticviewMdbAPI\obj\Debug\ExpressApp2.njsproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExpressApp2BootstrapStaticviewMdbAPI\obj\Debug\ExpressApp2.njsproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExpressApp2BootstrapStaticviewMdbAPI\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\user\source\repos\ExpressApp2BootstrapStaticviewMdbAPI - Copy\obj\Debug\ExpressApp2.njsproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExpressApp2BootstrapStaticviewMdbAPI - Copy\obj\Debug\ExpressApp2.njsproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExpressApp2BootstrapStaticviewMdbAPI - Copy\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\user\source\repos\ExpressApp2BootstrapStaticviewMdbAPI_get\obj\Debug\ExpressApp2.njsproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExpressApp2BootstrapStaticviewMdbAPI_get\obj\Debug\ExpressApp2.njsproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExpressApp2BootstrapStaticviewMdbAPI_get\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\user\source\repos\ExpressApp2BootstrapStaticviewMdbAPI_get_post_put_delete\obj\Debug\ExpressApp2.njsproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExpressApp2BootstrapStaticviewMdbAPI_get_post_put_delete\obj\Debug\ExpressApp2.njsproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExpressApp2BootstrapStaticviewMdbAPI_get_post_put_delete\bin\Microsoft.NodejsTools.WebRole.dll
+F:\Schedular api application\ExpressApp2BootstrapStaticviewMdbAPI_get_post_put_delete\obj\Debug\ExpressApp2.njsproj.AssemblyReference.cache
+F:\Schedular api application\ExpressApp2BootstrapStaticviewMdbAPI_get_post_put_delete\obj\Debug\ExpressApp2.njsproj.CoreCompileInputs.cache
+F:\Schedular api application\ExpressApp2BootstrapStaticviewMdbAPI_get_post_put_delete\bin\Microsoft.NodejsTools.WebRole.dll

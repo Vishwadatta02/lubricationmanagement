@@ -1,0 +1,29 @@
+{
+  "name": "express-app2",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "node app", 
+    "client": "cd app_client/client && npm start"
+
+  },
+  "description": "ExpressApp2",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "bootstrap": "^5.2.3",
+    "cookie-parser": "^1.4.0",
+    "cors": "^2.8.5",
+    "debug": "^2.2.0",
+    "express": "^4.14.0",
+    "font-awesome": "^4.7.0",
+    "mongodb": "^5.3.0",
+    "mongoose": "6.10.0",
+    "morgan": "^1.7.0",
+    "pug": "^2.0.0-beta6",
+    "serve-favicon": "^2.3.0"
+  }
+}
